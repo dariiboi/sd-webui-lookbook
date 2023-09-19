@@ -1,5 +1,5 @@
 from modules import script_callbacks
-from img2lookbook import make_ui
+from scripts.img2lookbook import make_ui
 
 
 def on_ui_tabs():
